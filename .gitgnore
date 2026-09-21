@@ -1,0 +1,8 @@
+# Ignorar arquivos de sistema operacional na raiz do repositório
+.DS_Store
+Thumbs.db
+
+# Se você criar arquivos locais para chaves privadas/tokens que não devem subir
+*.local
+.env
+
