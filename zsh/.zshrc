@@ -139,4 +139,5 @@ export PATH="$HOME/.local/bin:$PATH"
 # opencode
 export PATH=/home/augusto/.opencode/bin:$PATH
 
-EMSDK_QUIET=1
+
+export EMSDK_QUIET=1
